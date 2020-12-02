@@ -1,2 +1,2 @@
-# LMS-PRJT
+# Library Management System
  
